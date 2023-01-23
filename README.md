@@ -2,7 +2,13 @@
 
 Recently completed a 16-week intensive Software Development bootcamp at [Makers Academy](https://makers.tech/) where I learnt to write clean code with a strong focus on OOP, MVC, TDD, Code Visibility and Debugging practices. I have gained experience in Agile development and Pair-programming via multiple group projects and developed a strong confidence in accomplished Git workflow.
 
-Excited to continue my personal development and learning in my next full time role. Currently learning <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+Excited to continue my personal development and learning in my next full time role. Currently learning:
+<div align="left">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
+
+<br>
 
 Feel free to take a look at my [Github CV](https://github.com/iniffur/cv) or reach out to me on [Linkedin](https://www.linkedin.com/in/james-ruffini-5281b016b/)
 
