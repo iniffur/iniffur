@@ -47,4 +47,4 @@ Feel free to take a look at my [Github CV](https://github.com/iniffur/cv) or rea
 
 <br>
 
-[![James Ruffini's GitHub stats](https://github-readme-stats.vercel.app/api?username=iniffur&theme=dark)](https://github.com/iniffur/github-readme-stats)
+[![James Ruffini's GitHub stats](https://github-readme-stats-lake-chi.vercel.app/api?username=iniffur&theme=dark)](https://github.com/iniffur/github-readme-stats)
